@@ -1,0 +1,8 @@
+{
+  "AppSettings": {
+    "SiteEmailAddress": "i@hotmail.com"
+  },
+  "Data": {
+    "WorldContextConnection": "Server=(localdb)\\ProjectsV13;Database=TripPlannerDB;Trusted_Connection=;MultipleActiveResultSets=true;"
+  }
+}
